@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="bayarea.collias.com" />
+    <string-array name="items">
+        <item>gum</item>
+        <item>nails</item>
+        <item>measuring tape</item>
+    </string-array>
+    <string-array name="prices">
+        <item>$3.59</item>
+        <item>$3.81</item>
+        <item>$9.97</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Spearmint DoublePak 28 Pieces</item>
+        <item>Exterior Galvanized Common 269 Pieces</item>
+        <item>Stanley Tape 30 Feet</item>
+    </string-array>
+</resources>
